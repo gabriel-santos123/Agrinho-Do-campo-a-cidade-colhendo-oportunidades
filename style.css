@@ -26,7 +26,8 @@ background-repeat: no-repeat;
 
 /*seções comuns ou seção 1*/
 .secao1{
-
+  font-size: 30px;
+  color: aliceblue;
 }
 
 
@@ -38,15 +39,9 @@ h1{
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
-  background-color: gray;
-}
-p{
-  font-size: 30px;
-  color: aliceblue;
 }
 h2{
   text-align: center;
-  font-size: 45px;
+  font-size: 60px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  background-color: gray;
 }
