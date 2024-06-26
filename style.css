@@ -15,6 +15,7 @@
 body{
 background-image: url(img/01jun_interna.jpg);
 background-size: cover;
+background: no-repeat;
 }
 
 /*Cabeçalho / Header */
