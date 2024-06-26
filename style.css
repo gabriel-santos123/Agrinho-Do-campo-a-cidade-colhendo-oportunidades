@@ -13,7 +13,7 @@
 }
 
 body{
-
+background-image: url(img/01jun_interna.jpg);
 }
 
 /*Cabeçalho / Header */
@@ -36,6 +36,7 @@ h1{
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
+  background-image: ;
 }
 p{
   font-size: 30px;
