@@ -27,8 +27,8 @@ background-repeat: no-repeat;
 /*seções comuns ou seção 1*/
 .secao1{
   font-size: 30px;
-  color: rgba(0, 0, 0, 0);
-  background-color: whitesmoke;
+  color: blue;
+
 }
 
 
@@ -49,5 +49,5 @@ h2{
 p{
   font-size: 30px;
   color: black;
-  background-color: whitesmoke;
+  
 }
