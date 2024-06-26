@@ -28,7 +28,7 @@ background-repeat: no-repeat;
 .secao1{
   font-size: 30px;
   color: black;
-  background-color: aliceblue;
+  background-color: transparent;
 }
 
 
@@ -49,5 +49,5 @@ h2{
 p{
   font-size: 30px;
   color: black;
-  background-color: aliceblue;
+  background-color: transparent;
 }
