@@ -36,3 +36,7 @@ h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
 }
+img{
+  align-items: center;
+  size-adjust: 100px;
+}
