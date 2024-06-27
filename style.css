@@ -16,6 +16,7 @@ body{
   background-image:url(img/arau1.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 }
 
 
@@ -72,8 +73,7 @@ a.cabecalho__botao {
 .secao1__titulo {
   font-weight: 700;
   font-size: 48px;
-  color: var(--preto-titulo);
-  margin-bottom: 0.2em;
+  margin-bottom: 0.1em;
 }
 
 .secao1__imagem {
