@@ -13,7 +13,9 @@
 }
 
 body{
-background-color: grey;
+  background-image:url(img/Araucaria_Parna_aparados_da_serra.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1{
@@ -51,7 +53,4 @@ h5{
 p{
   text-align: center;
   font-size: 30px;
-}
-img{
-align-items: center;
 }
