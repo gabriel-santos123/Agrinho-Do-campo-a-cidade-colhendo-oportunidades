@@ -81,7 +81,43 @@ a.cabecalho__botao {
   font-size: 30px;
 }
 
-/*FINAL DA SEÇÃO1 */
+/*secao2 */
+
+.secao2__img__titulo {
+  color: var(--preto-titulo);
+  font-weight: 700;
+  font-size: 48px;
+  margin-left: 40px;
+}
+.secao2__img__subtitulo {
+  margin-top: 35px;
+  color: var(--preto-titulo);
+  font-size: 25px;
+}
+.secao1__descricao,
+.secao2__img__subtitulo {
+  padding: 2em;
+}
+.secao2__imagens {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 2em;
+}
+.secao2__imagens img {
+  width: 95%;
+}
+.secao2__titulo {
+  margin: 50px 0px 30px 0px;
+}
+.secao2__subtitulo h2 {
+  margin-top: 35px;
+  color: var(--preto-titulo);
+  font-size: 30px;
+}
+
+
+
 
 h1{
   text-align: center;
