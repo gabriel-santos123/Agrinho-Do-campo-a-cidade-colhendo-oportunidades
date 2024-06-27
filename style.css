@@ -63,11 +63,25 @@ a.cabecalho__botao {
 }
  /**FIM CABEÇALHO RIC*/
 
-/*SEÇÃO ZERO */
+/*SEÇÃO1 */
+.secao1__descricao {
+  width: 50%;
+}
 
+.secao1__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--preto-titulo);
+  margin-bottom: 0.2em;
+}
 
+.secao1__texto {
+  margin-top: 35px;
+  color: var(--preto-titulo);
+  font-size: 30px;
+}
 
-/*FINAL DA SEÇÃO ZERO */
+/*FINAL DA SEÇÃO1 */
 
 h1{
   text-align: center;
