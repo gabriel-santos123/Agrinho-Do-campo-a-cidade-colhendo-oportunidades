@@ -74,7 +74,10 @@ a.cabecalho__botao {
   font-weight: 700;
   font-size: 48px;
   margin-bottom: 0.1em;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
 
 .secao1__imagem {
   padding: 1em;
@@ -126,13 +129,7 @@ a.cabecalho__botao {
 
 
 
-h1{
-  text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 60px;
-  background-color: green;
-  color
-}
+
 
 h2{
   text-align: center;
