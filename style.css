@@ -164,3 +164,8 @@ img{
   align-items: center;
   size-adjust: cover;
 }
+p{
+  text-align: left;
+  font-size: 30px;
+  color: white;
+}
