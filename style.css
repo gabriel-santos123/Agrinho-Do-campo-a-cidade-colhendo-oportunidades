@@ -13,9 +13,7 @@
 }
 
 body{
-background-image: url(img/01jun_interna.jpg);
-background-size: cover;
-background-repeat: no-repeat;
+
 }
 
 h1{
@@ -51,4 +49,7 @@ h5{
 p{
   text-align: center;
   font-size: 30px;
+}
+img{
+align-items: center;
 }
