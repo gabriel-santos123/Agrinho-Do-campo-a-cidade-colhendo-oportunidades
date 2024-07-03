@@ -191,10 +191,7 @@ body {
 }
 
 .logo img {
-  height: 50px; /* Ajuste conforme necessário */
-  left: 50px;
-  right: 50px;
-}
+  height: 500px; /* Ajuste conforme necessário */
 
 .main-nav ul {
   list-style-type: none;
