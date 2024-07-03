@@ -209,3 +209,6 @@ p{
 .tab-content.active {
   display: block;
 }
+button{
+  text-align: center;
+}
