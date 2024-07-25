@@ -253,3 +253,34 @@ footer {
 .footer-content ul li a:hover {
   text-decoration: underline;
 }
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif; /* Define uma fonte padrão para o corpo do documento */
+  line-height: 1.6; /* Define o espaçamento entre linhas para melhor legibilidade */
+  margin: 0; /* Remove margens padrão do corpo */
+  padding: 0; /* Remove preenchimentos padrão do corpo */
+}
+
+.sobre {
+  max-width: 800px; /* Define a largura máxima para a seção */
+  margin: 0 auto; /* Centraliza a seção horizontalmente */
+  padding: 20px; /* Adiciona um espaçamento interno */
+  text-align: justify; /* Justifica o texto para melhor legibilidade */
+}
+
+.sobre h1, .sobre h2, .sobre h3 {
+  text-align: center; /* Centraliza os títulos dentro da seção */
+}
+
+.sobre p, .sobre ul {
+  text-align: justify; /* Justifica o texto para melhor legibilidade */
+}
+
+.sobre ul {
+  padding-left: 20px; /* Adiciona um recuo no início da lista */
+}
+
+.sobre li {
+  margin-bottom: 10px; /* Adiciona um espaçamento entre os itens da lista */
+}
