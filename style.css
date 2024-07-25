@@ -284,3 +284,7 @@ body {
 .sobre li {
   margin-bottom: 10px; /* Adiciona um espaçamento entre os itens da lista */
 }
+
+li{
+text-align: center;
+}
