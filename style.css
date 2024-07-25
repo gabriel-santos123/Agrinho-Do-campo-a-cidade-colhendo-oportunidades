@@ -184,7 +184,7 @@ body {
 }
 
 .logo img {
-  height: 50px; /* Ajuste conforme necessário */
+  height: 50px; 
 }
 
 .main-nav ul {
@@ -253,7 +253,7 @@ footer {
 .footer-content ul li a:hover {
   text-decoration: underline;
 }
-/* styles.css */
+/* sobre.html */
 
 body {
   font-family: Arial, sans-serif; /* Define uma fonte padrão para o corpo do documento */
@@ -287,4 +287,32 @@ body {
 
 li{
 text-align: center;
+}
+
+/* servicos.html */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.servicos {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+}
+
+.servicos h1, .servicos h2 {
+  text-align: center;
+}
+
+.servicos h2 {
+  margin-top: 30px;
+}
+
+.servicos p {
+  margin-bottom: 20px;
 }
